@@ -11,8 +11,8 @@
 - Algoritmos
 
 ### 🚀 Meus Projetos de Estudo
-- [Projeto Calculadora](ProjetoCalculadora/src/main/main4.java)
-- [Projeto Números Primos](ProjetoNúmerosPrimos/src/main/main5.java)
+- [Projeto Calculadora](https://github.com/isabellyferr/16-05-26-Marcelo_calculadora/commit/20ced23ae1033da75bfaa5ba0853c00acaa2ac98)
+- [Projeto Números Primos](https://github.com/isabellyferr/16-05-26-Marcelo_calculadora/commit/20ced23ae1033da75bfaa5ba0853c00acaa2ac98)
 
 ---
 💻 Em transição para a área de tecnologia
