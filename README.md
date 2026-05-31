@@ -1,16 +1,18 @@
-## Hi there 👋
+## Olá, sou Isabelly Ferreira! 👋
 
-<!--
-**isabellyferr/isabellyferr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 Estudando Java e lógica de programação
+- 📫 Conatate-me no email: isabellyfe4@gmail.com
+- 😄 Pronome: ela/dela
 
-Here are some ideas to get you started:
+### 🛠️ Tecnologias que estou aprendendo
+- Java
+- Eclipse IDE
+- Git & GitHub
+- Algoritmos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Meus Projetos de Estudo
+- [Projeto Calculadora](coloca-o-link-aqui)
+- [Projeto Números Primos](coloca-o-link-aqui)
+
+---
+💻 Em transição para a área de tecnologia
