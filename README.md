@@ -1,7 +1,7 @@
 ## Olá, sou Isabelly Ferreira! 👋
 
 - 🌱 Estudando Java e lógica de programação
-- 📫 Conatate-me no email: isabellyfe4@gmail.com
+- 📫 Contate-me no email: isabellyfe4@gmail.com
 - 😄 Pronome: ela/dela
 
 ### 🛠️ Tecnologias que estou aprendendo
