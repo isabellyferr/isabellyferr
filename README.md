@@ -12,7 +12,7 @@
 
 ### 🚀 Meus Projetos de Estudo
 - [Projeto Calculadora](ProjetoCalculadora/src/main/main4.java)
-- [Projeto Números Primos](coloca-o-link-aqui)
+- [Projeto Números Primos](ProjetoNúmerosPrimos/src/main/main5.java)
 
 ---
 💻 Em transição para a área de tecnologia
