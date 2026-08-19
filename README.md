@@ -1,6 +1,6 @@
 ## Olá, sou Isabelly Ferreira! 👋
 
-- 🌱 Estudando Java
+- 🌱 Estudando Java e Ciências da Computação
 - 📫 Contate-me no email: isabellyfe4@gmail.com
 - 😄 Pronome: ela/dela
 
