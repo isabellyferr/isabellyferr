@@ -6,6 +6,7 @@
 
 ### 🛠️ Tecnologias que estou aprendendo
 - Java
+- C++
 - Eclipse IDE
 - Git & GitHub
 - Algoritmos
